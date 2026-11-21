@@ -16,3 +16,6 @@ os resultados em um painel com indicadores e alertas.
 - prototipo: telas do protótipo (Figma)
 
 ## Protótipo das telas
+Link do Figma: https://www.figma.com/design/44UU6ZsRh6Edlw0TJFrsWn/EstacionaF%C3%A1cil-Insights
+
+Telas: login e painel de satisfação (com filtros, satisfação por serviço, assuntos mais citados, feedbacks, importação de CSV e alertas).
